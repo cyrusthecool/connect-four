@@ -14,9 +14,6 @@ A simple connect four game built with HTML, CSS, and JS. The user has options of
 
 This game was built to practice HTML, CSS, and JS, and to improve problem solving skills and consistent logical thinking.
 
-## Installation
-
-Demo of this game can be found <a href="http://borderpointer.github.io/connect-four/" target = "_blank">here</a>.
 
 ## Unsolved Problems
 
